@@ -6,12 +6,12 @@
       android:versionName="1.0">
     <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23"/>
     <!-- Set your application name here -->
-    <application android:label="Client mod"
+    <application android:label="Xash3D-Client-mod"
 		 android:debuggable="false"
 		 android:icon="@mipmap/ic_launcher">
     <!-- Set your launcher title here -->
         <activity android:name="in.celest.xash3d.LauncherActivity"
-                  android:label="Client mod"
+                  android:label="Xash3D-Client-mod"
 			android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
