@@ -1,0 +1,3 @@
+[submodule "jni/hlsdk-xash3d-hud"]
+	path = jni/hlsdk-xash3d-hud
+	url = https://github.com/EllVEBIT/hlsdk-xash3d-hud
